@@ -597,7 +597,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
                 anu = `*Apa bang sc?:*
                 
 *Recode By : Emon*
-https://github.com/EmonBotz`
+wa.me/6289516947204`
 let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
@@ -2898,7 +2898,7 @@ anu = `╭──「 *SEWABOT* 」
 ├  DAN RATUSAN FITUR LAINYA
 ╰────
 ╭─[ *MINAT CHAT* ]
-├  🪀 wa.me/6285799227173?text=SEWABOT
+├  🪀 wa.me/6289516947204?text=SEWABOT
 ╰────
 ╭─[ *PAYMENT* ]
 ├  DANA
@@ -2920,7 +2920,7 @@ anu = `╭──「 *SEWABOT* 」
 ├  NAMA BOT, NAMA OWNER, OWNER, DLL DI GANTI JADI TERSERAH LU
 ╰────
 ╭─[ *MINAT CHAT* ]
-├  🪀 wa.me/6285799227173?text=JADIBOT
+├  🪀 wa.me/6289516947204?text=JADIBOT
 ╰────
 ╭─[ *PAYMENT* ]
 ├  PULSA
@@ -2975,7 +2975,8 @@ case 'dana': {
             }
             break
 case 'pulsa': {
-m.reply('NOPE PULSA : 085799227173')
+m.reply('NOPE PULSA : 
+089516947204')
 }
 break
 // Button List
