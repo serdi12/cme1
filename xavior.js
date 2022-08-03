@@ -4956,7 +4956,7 @@ case 'contributor': {
 
 Adiwajshing :
 https://github.com/Adiwajshing
-Dika Ardnt :
+Call Me Emon :
 https://github.com/EmonBotz
 Penyedia Rest Api :
 https://zenzapis.xyz`
