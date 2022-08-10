@@ -12,12 +12,12 @@ global.APIKeys = {
 }
 
 // Other
-global.namabot = ['𝚁𝙲𝚃𝙸 𝙱𝙾𝚃-MD']
-global.namaowner = ['𝚒𝚢𝚊𝚗']
-global.owner = ['6289516947204']
+global.namabot = ['Ryzu 𝙱𝙾𝚃-MD']
+global.namaowner = ['Ryzu']
+global.owner = ['6281364150144']
 global.premium = ['6289516947204']
 global.packname = '𝚁𝙲𝚃𝙸 𝙱𝙾𝚃-MD'
-global.author = 'Call Me 𝚒𝚢𝚊𝚗'
+global.author = 'Call Me Ryzu'
 global.sessionName = 'Xavior'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
